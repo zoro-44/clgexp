@@ -1,5 +1,6 @@
 public class demo {
     public static void main(String[] args){
-        System.out.println("helloooooo");
+        System.out.println("hello welcome to Jenkins first project");
     }
 }
+
